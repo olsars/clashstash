@@ -1,0 +1,17 @@
+# Installed JavaScript dependencies
+node_modules/
+
+# Local secrets; keep the placeholder example tracked
+.env
+.env.*
+!.env.example
+
+# Local database files
+data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Generated output and logs
+dist/
+*.log
