@@ -1,0 +1,17 @@
+body{
+    background-color: #3197ba;
+    padding: 8px;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    }
+h1{
+    color: white;
+}
+table, th, td {
+  border:2px solid black;
+  background-color: white;
+  padding: 4px;
+}
+th{
+    background-color: lightgrey;
+}
